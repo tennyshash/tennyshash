@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @tennyshash
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm Shashwat Pratap Singh Parihar! 👋
 
-<!---
-tennyshash/tennyshash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+I'm currently working as a Java backend developer and I'm interested in becoming a full-stack engineer. I'm currently learning about microservices and other technologies to expand my skill set.
+
+## Contact Me
+- **Email:** shashwatpratapsinghparihar@gmail.com
+
+
